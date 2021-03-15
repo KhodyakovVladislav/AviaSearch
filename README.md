@@ -5,7 +5,7 @@
 -  [Trello](https://trello.com/b/nMqrOxFm/e-ticket-purchase-systems)
 -  [Miro](   )
 
--  [Справочник Достопримечательностей](https://magnatm.pythonanywhere.com)
+-  [Системы покупки электронных авиабилетов](https://magnatm.pythonanywhere.com)
 -  [Swagger](https://magnatm.pythonanywhere.com/api-doc/)
 -  [Демо-видео](https://youtu.be/GfDFHuRXeYo)
 -  [Курсовой проект](https://github.com/molochk0/AttractionsCatalog/blob/master/Documents/Course_project.pdf)
