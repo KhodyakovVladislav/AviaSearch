@@ -7,10 +7,10 @@
 
 -  [Системы покупки электронных авиабилетов](https://magnatm.pythonanywhere.com)
 -  [Swagger](https://magnatm.pythonanywhere.com/api-doc/)
--  [Демо-видео](https://youtu.be/GfDFHuRXeYo)
--  [Курсовой проект](https://github.com/molochk0/AttractionsCatalog/blob/master/Documents/Course_project.pdf)
--  [Отчет по ролям](https://github.com/molochk0/AttractionsCatalog/blob/master/Documents/RoleReport_3att.pdf)
--  [Видеопрезентация проекта](https://youtu.be/t9Cunp47jYw)
+-  [Демо-видео]()
+-  [Курсовой проект]()
+-  [Отчет по ролям]()
+-  [Видеопрезентация проекта]()
 
 ## Список участников команды  и распределение ролей:
 -  Владислав Ходяков - 
