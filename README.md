@@ -4,7 +4,7 @@
 
 ## Ссылки: 
 -  [Trello](https://trello.com/b/nMqrOxFm/e-ticket-purchase-systems)
--  [Miro](   )
+-  [Miro]( https://miro.com/welcomeonboard/4S1ZP32TTbJIk57rsY1pLgDnEZpUPnlGxDo11YlWKk52IYoZZSNp8s4BuzcbFhyb  )
 
 -  [Системы покупки электронных авиабилетов](https://magnatm.pythonanywhere.com)
 -  [Swagger](https://magnatm.pythonanywhere.com/api-doc/)
