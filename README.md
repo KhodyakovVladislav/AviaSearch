@@ -5,11 +5,10 @@
 ## Ссылки: 
 -  [Trello](https://trello.com/b/nMqrOxFm/e-ticket-purchase-systems)
 -  [Miro]( https://miro.com/welcomeonboard/4S1ZP32TTbJIk57rsY1pLgDnEZpUPnlGxDo11YlWKk52IYoZZSNp8s4BuzcbFhyb  )
-
--  [Системы поиска электронных авиабилетов]()
--  [Swagger]()
 -  [Курсовой проект](Kursovoy_proekt.docx)
 -  [Техническое задание](Tekhnicheskoe_zadanie.docx)
+-  [Системы поиска электронных авиабилетов]()
+-  [Swagger]()
 -  [Демо-видео]()
 -  [Отчет по ролям]()
 -  [Видеопрезентация проекта]()
