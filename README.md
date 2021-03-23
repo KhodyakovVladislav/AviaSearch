@@ -6,7 +6,7 @@
 -  [Trello](https://trello.com/b/nMqrOxFm/e-ticket-purchase-systems)
 -  [Miro]( https://miro.com/welcomeonboard/4S1ZP32TTbJIk57rsY1pLgDnEZpUPnlGxDo11YlWKk52IYoZZSNp8s4BuzcbFhyb  )
 
--  [Системы покупки электронных авиабилетов](https://magnatm.pythonanywhere.com)
+-  [Системы поиска электронных авиабилетов](https://magnatm.pythonanywhere.com)
 -  [Swagger](https://magnatm.pythonanywhere.com/api-doc/)
 -  [Демо-видео]()
 -  [Курсовой проект]()
@@ -14,13 +14,14 @@
 -  [Видеопрезентация проекта]()
 
 ## Список участников команды  и распределение ролей:
--  Владислав Ходяков - 
--  Роман Петров - 
--  Владислав Насонов  - 
+-  Владислав Ходяков - frontend, ararara979@gmail.com
+
+-  Роман Петров - менеджер проекта, тестировщик проекта, r.petrov99@mail.ru
+-  Владислав Насонов  - backend, Ghostfreak837@gmail.com
 
 ## Email для связи: ararara979@gmail.com
 
 
 ## Описание проекта:
 
- Веб-приложение "Системы покупки электронных авиабилетов"
+ Веб-приложение "Системы поиска электронных авиабилетов"
