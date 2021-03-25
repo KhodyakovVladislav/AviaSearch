@@ -7,11 +7,7 @@
 -  [Miro]( https://miro.com/welcomeonboard/4S1ZP32TTbJIk57rsY1pLgDnEZpUPnlGxDo11YlWKk52IYoZZSNp8s4BuzcbFhyb  )
 -  [Курсовой проект](Documents/Kursovoy_proekt.docx)
 -  [Техническое задание](Documents/Tekhnicheskoe_zadanie.docx)
--  [Системы поиска электронных авиабилетов]()
--  [Swagger]()
--  [Демо-видео]()
--  [Отчет по ролям]()
--  [Видеопрезентация проекта]()
+- 
 
 ## Список участников команды  и распределение ролей:
 -  Владислав Ходяков - frontend, ararara979@gmail.com
