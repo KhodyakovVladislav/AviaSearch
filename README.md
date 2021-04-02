@@ -7,7 +7,6 @@
 -  [Miro]( https://miro.com/welcomeonboard/4S1ZP32TTbJIk57rsY1pLgDnEZpUPnlGxDo11YlWKk52IYoZZSNp8s4BuzcbFhyb  )
 -  [Курсовой проект](Documents/Kursovoy_proekt_3.docx)
 -  [Техническое задание](Documents/Tekhnicheskoe_zadanie_3.docx)
-- 
 
 ## Список участников команды  и распределение ролей:
 -  Владислав Ходяков - frontend, ararara979@gmail.com
