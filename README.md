@@ -4,7 +4,7 @@
 
 ## Ссылки: 
 -  [Trello](https://trello.com/b/nMqrOxFm/e-ticket-purchase-systems)
--  [Miro]( https://miro.com/welcomeonboard/4S1ZP32TTbJIk57rsY1pLgDnEZpUPnlGxDo11YlWKk52IYoZZSNp8s4BuzcbFhyb  )
+-  [Miro]( https://miro.com/app/board/o9J_lPQE540=/  )
 -  [Курсовой проект](Documents/Kursovoy_proekt_3.docx)
 -  [Техническое задание](Documents/Tekhnicheskoe_zadanie_3.docx)
 
