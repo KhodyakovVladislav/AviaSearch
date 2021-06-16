@@ -9,9 +9,9 @@
 -  [Техническое задание](Documents/Tekhnicheskoe_zadanie_3_3.docx)
 
 ## Список участников команды  и распределение ролей:
--  Владислав Ходяков - backend, ararara979@gmail.com
--  Роман Петров - менеджер проекта, тестировщик проекта, r.petrov99@mail.ru
--  Владислав Насонов  - frontend, Ghostfreak837@gmail.com
+-  Владислав Ходяков - менеджер проекта, ararara979@gmail.com
+-  Роман Петров - тестировщик проекта, r.petrov99@mail.ru
+-  Владислав Насонов  - frontend, backend, Ghostfreak837@gmail.com
 
 ## Email для связи: ararara979@gmail.com
 
