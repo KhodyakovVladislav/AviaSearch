@@ -7,6 +7,7 @@
 -  [Miro]( https://miro.com/app/board/o9J_lPQE540=/  )
 -  [Курсовой проект](Documents/Kursovoy_proekt_3.docx)  [(PDF)](Documents/Kursovoy_proekt_3.pdf)
 -  [Техническое задание](Documents/Tekhnicheskoe_zadanie_3_3.docx)  [(PDF)](Documents/Tekhnicheskoe_zadanie_3_3.pdf)
+-  [Сайт приложения]( http://freevlad.ru.xsph.ru )
 
 ## Список участников команды  и распределение ролей:
 -  Владислав Ходяков - менеджер проекта, редактирование документации ararara979@gmail.com
