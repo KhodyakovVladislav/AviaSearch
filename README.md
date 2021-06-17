@@ -7,6 +7,7 @@
 -  [Miro]( https://miro.com/app/board/o9J_lPQE540=/  )
 -  [Курсовой проект](Documents/Kursovoy_proekt_3.docx)  [(PDF)](Documents/Kursovoy_proekt_3.pdf)
 -  [Техническое задание](Documents/Tekhnicheskoe_zadanie_3_3.docx)  [(PDF)](Documents/Tekhnicheskoe_zadanie_3_3.pdf)
+-  [Демо-видео]( https://youtu.be/9juTvUi8A7k )
 -  [Сайт приложения]( http://freevlad.ru.xsph.ru )
 
 ## Список участников команды  и распределение ролей:
