@@ -8,6 +8,7 @@
 -  [Курсовой проект](Documents/Kursovoy_proekt_3.docx)  [(PDF)](Documents/Kursovoy_proekt_3.pdf)
 -  [Техническое задание](Documents/Tekhnicheskoe_zadanie_3_3.docx)  [(PDF)](Documents/Tekhnicheskoe_zadanie_3_3.pdf)
 -  [Файл презентации](Documents/AviaSearch_prezentatsia.pptx)
+-  [Отчёт по ролям](Documents/Отчёт по ролям.docx)
 -  [Демо-видео]( https://youtu.be/GvZcCKM2GBQ )
 -  [Сайт приложения]( http://freevlad.ru.xsph.ru )
 
