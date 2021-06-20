@@ -8,7 +8,7 @@
 -  [Курсовой проект](Documents/Kursovoy_proekt_3.docx)  [(PDF)](Documents/Kursovoy_proekt_3.pdf)
 -  [Техническое задание](Documents/Tekhnicheskoe_zadanie_3_3.docx)  [(PDF)](Documents/Tekhnicheskoe_zadanie_3_3.pdf)
 -  [Файл презентации](Documents/AviaSearch_prezentatsia.pptx)
--  [Демо-видео]( https://youtu.be/9juTvUi8A7k )
+-  [Демо-видео]( https://youtu.be/GvZcCKM2GBQ )
 -  [Сайт приложения]( http://freevlad.ru.xsph.ru )
 
 ## Список участников команды  и распределение ролей:
