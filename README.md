@@ -11,6 +11,9 @@
 -  [Отчёт по ролям](Documents/Отчёт_по_ролям.docx)
 -  [Демо-видео]( https://youtu.be/GvZcCKM2GBQ )
 -  [Сайт приложения]( http://freevlad.ru.xsph.ru )
+-  [Видео презентации]( https://youtu.be/C1ctMgkNNMY )
+
+https://youtu.be/C1ctMgkNNMY
 
 ## Список участников команды  и распределение ролей:
 -  Владислав Ходяков гр.1.1 - менеджер проекта, редактирование документации ararara979@gmail.com
