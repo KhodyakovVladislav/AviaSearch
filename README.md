@@ -11,7 +11,7 @@
 -  [Отчёт по ролям](Documents/Отчёт_по_ролям.docx)
 -  [Демо-видео]( https://youtu.be/GvZcCKM2GBQ )
 -  [Сайт приложения]( http://freevlad.ru.xsph.ru )
--  [Видео презентации]( https://youtu.be/C1ctMgkNNMY )
+-  [Видео презентации]( https://youtu.be/izh7MuHi_J8 )
 
 
 
